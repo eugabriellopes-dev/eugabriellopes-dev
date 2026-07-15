@@ -37,8 +37,7 @@ Web Developer passionate about building modern and scalable digital products.
 ## Contact
 
 * Email: [gsilvalopes100@gmail.com](mailto:gsilvalopes100@gmail.com)
-* LinkedIn: www.linkedin.com/in/
-gabriel-lopes-bb3a02212
+* LinkedIn: www.linkedin.com/in/gabriel-lopes-bb3a02212
 
 
 > Building digital products, one project at a time.
